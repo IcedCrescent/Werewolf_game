@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Werewolf</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="exit_message">
+        <item>You can run, but you can\'t hide from the wolf forever</item>
+        <item>Sooner or later, the wolf will gonna find and tear you apart</item>
+        <item>Feeling guilty of killing your friend? :)</item>
+    </string-array>
+</resources>
